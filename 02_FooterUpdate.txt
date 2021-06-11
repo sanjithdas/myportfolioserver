@@ -1,0 +1,13 @@
+[B] UPDATED FOOTER
+
+1. Create Footer Using Grid Structure
+- Built within a container
+- Has two Rows: 1st Row has 4 columns & 2nd row has 2 columns
+
+2. 1ST ROW
+- Lists sitemap with styled components
+- Core features include spacing to ensure centered look, use of global colour variables to manage color, hover and active
+
+3. 2ND ROW
+- Provides subscription form (not linked to server - but to show an example of how to design it)
+- Provides our copyright signature

@@ -1,0 +1,9 @@
+NEXT STEPS TO CONTINUE IMPROVING APPLICATION:
+
+- PROJECTS.JS: Create the structure & design
+
+- ABOUT.JS: Create the structure & design
+
+- BLOG.JS: Improve & simplify CSS by transitioning Global CSS into component-level styled-components
+
+- FOOTER.JS: Link the Subscription form to server MailChimp API

@@ -1,0 +1,17 @@
+[A] UPDATE TO GENERAL DESIGN STRUCTURE
+
+1. Layout Update:
+  (a) SHIFT LAYOUT CONTAINER: As predicted, we need to shift the container out of layout, into each of the components.  To keep the "container#main" consistent, we have attached an id to it & select it in global CSS.  We then have wrapped each view component within this container id=main.
+
+  (b) LAYOUT MODIFIES "ContentWrap": Replaced the container with a styled component called "ContentWrap" which will feed into the new flex box structure (to ensure the footer sits flush at the bottom of a full window)
+
+  (c) NEW - APP LAYOUT DIV in App.js: This allows us to complete our flex box structure (again, selected and modified in global CSS)
+
+  (d) NEW - GLOBAL COLOURS: To create design consistency, we have created colour variables attributed to the root file, which will allow us to call them and keep colours consistent across the application
+
+2. Changes to Home & Navbar:
+  (a) HOME - POSITION IS NOW "RELATIVE" not FIXED: This is to ensure the footer always sits below it in our flex structure (otherwise it overlaps due to it forming part of the viewport)
+
+  (b) NAVBAR - FIXED TOP: Using Bootstrap naming, we designate Navbar as fixed="top" to always have following the scroll
+
+  (c) NEW - ABOUT PAGE: Added About page to round out the application (particularly for the Footer)

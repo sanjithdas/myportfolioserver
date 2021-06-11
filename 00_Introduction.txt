@@ -1,0 +1,17 @@
+RECAP OF LAST WEEK:
+- Updated our SubModal to become a popup on load of the blog page (from button press)
+- Updated the design of our site, through use of, and overwrites to, Bootstrap's default CSS - including changes to:
+  (a) NotFound.js
+  (b) NavigationBar.js 
+  (c) Home.js
+  (d) Footer.js
+
+
+PLAN THIS WEEK:
+- Change footer to a professional site map & subscription form footer
+- Creation of structure & styling to the blog page
+- Update of SubModal design
+
+
+MAINLY --> WORK ON PORTFOLIO & DEBUGGING TIME
+- Support Sign Up Sheet: https://docs.google.com/spreadsheets/d/13VstoLMQsMZRHgf2_soOu5mjSia6pA-goEbegnW0HTc/edit

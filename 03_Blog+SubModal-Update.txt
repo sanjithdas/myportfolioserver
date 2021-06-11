@@ -1,0 +1,16 @@
+[B] UPDATE TO BLOG PAGE
+- Created a blog page using the standard Bootstrap grid rather than Bootstrap cards - too allow for more customisation 
+- Has some nice hover animations that improve the user experience
+
+CURRENTLY: Styled largely using Bootstrap classes, global CSS properties & global CSS variables
+
+PLAN FOR UPDATE: 
+- Transition the component-level CSS in the global CSS stylesheet into the componenet using styled-components
+- Improve the CSS as there are lots of !important & duplicate CSS entries
+- Fix the "like" icon which doesnt have a working focus/hover
+
+
+[C] UPDATE TO SUBMODAL DESIGN 
+- Used the React-Icons Context API to size and colour the icon (see: https://github.com/react-icons/react-icons#configuration)
+- Used Bootstrap style properties to clean up the Modal formatting
+- Used styled-components to customise the h5 & p text as needed
