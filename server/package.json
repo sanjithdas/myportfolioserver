@@ -1,12 +1,12 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Portfolio site for AB",
+  "description": "Portfolio site for SD",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"     
   },
-  "author": "AGMB",
+  "author": "SD",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
