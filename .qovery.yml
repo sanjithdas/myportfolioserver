@@ -1,0 +1,11 @@
+---
+application:
+  name: "myportfolioserver"
+  project: "myportserver"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-myportfolioserver"
+  routes:
+  - application_name: "myportfolioserver"
+    paths:
+    - "/*"
