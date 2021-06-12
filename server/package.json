@@ -4,10 +4,7 @@
   "description": "Portfolio site for AB",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "server": "nodemon index",
-    "client": "cd ../ && npm start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "start": "node index"     
   },
   "author": "AGMB",
   "license": "ISC",
