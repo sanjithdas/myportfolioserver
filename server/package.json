@@ -4,7 +4,7 @@
   "description": "Portfolio site for AB",
   "main": "index.js",
   "scripts": {
-    "start": "node index"     
+    "start": "node index.js"     
   },
   "author": "AGMB",
   "license": "ISC",
